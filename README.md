@@ -5,13 +5,13 @@ A Starknet toolkit.
 ## Installation
 
 ```
-λ cargo install --git https://github.com/kariy/probe-chan --locked --force
+cargo install --git https://github.com/kariy/probe-chan --locked --force
 ```
 
 ## Usage
 
 ```console
-λ probe
+probe
 A Starknet toolkit.
 
 Usage: probe <COMMAND>
